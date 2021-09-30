@@ -13,7 +13,7 @@
 Endpoints
 Notera att vissa endpoints förekommer flera gånger under olika roller.
 
-## Insrtuktionen
+## Instruktioner
 Läs noga igenom hela projektbeskrivningen.
 För att komma igång
 ● Problemanalys, vilka delproblem finns det?
@@ -26,7 +26,7 @@ För att komma igång
 I slutet på varje lektion kommer gruppen redovisa kort för läraren hur utvecklingen av
 webbtjänsten fortlöper.
 
-## Specifaktion
+## Specifikation
 Webbtjänsten ska ta emot och svara med JSON.
 Resurser: Användare, Ärenden och Meddelanden och bilder.
 Ärenden ska ha datum när ärendet skapades, datum när den ändrades och om ärendet är
